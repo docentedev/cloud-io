@@ -1,0 +1,32 @@
+.text-ellipsis,
+.rs-panel-heading {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.rs-modal {
+    max-width: 90%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-cover {
+    object-fit: cover;
+    max-height: 80px;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+audio {
+    max-width: 100%;
+}
+
+.file-description {
+    text-align: center;
+    height: 100px;
+}
